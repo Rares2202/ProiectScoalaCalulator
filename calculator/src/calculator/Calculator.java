@@ -107,7 +107,7 @@ public class Calculator extends JFrame implements ActionListener, ChangeListener
 
  
         
-        darkThemeButton.setSelected(true); // Seteaza tema intunecata ca implicita
+        darkThemeButton.setSelected(true); // Pune pe butonul de dark theme selectul 
 
         //adaug listener pentru butoanele de tema
         lightThemeButton.addActionListener(this);
